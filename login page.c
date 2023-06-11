@@ -84,8 +84,7 @@ start:
 
     for (int i = 0; i < 6; i++)
     {
-        get[i] = getch();
-        printf("%c", get[i]);
+        get[i] = getche();
         Sleep(1);
         printf("\b*");
     }
