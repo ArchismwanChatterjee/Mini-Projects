@@ -158,5 +158,5 @@ while True:
                 score, high_score), align="center", font=("candara", 24, "bold"))
     time.sleep(delay)
 
-wn.mainloop()
+
 
