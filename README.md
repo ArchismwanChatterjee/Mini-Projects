@@ -12,3 +12,5 @@
 4.[Snake Game](https://github.com/ArchismwanChatterjee/Mini-Projects/blob/main/snake%20game.md)
 
 5.[Bank Management System](https://github.com/ArchismwanChatterjee/Mini-Projects/blob/main/bank_management.md)
+
+6.[Tic-Tac-Toe](https://github.com/ArchismwanChatterjee/Mini-Projects/blob/main/tic-tac-toe.md)
