@@ -1,4 +1,4 @@
-## Bank Management System
+## BANK MANAGEMENT SYSTEM
 
 Created the bank management system using C language where you can:
 
@@ -12,3 +12,6 @@ Created the bank management system using C language where you can:
 Used file handling concepts to store all the data(**_account information_**) in a file record.txt.
 
 All the data will be added in the same file that means there will be no seperate files for each execution or running of the system.
+
+## USE THIS LINK TO ACCESS THE CODE DIRECTLY:
+[Bank Management Code](https://github.com/ArchismwanChatterjee/Mini-Projects/blob/main/bank_management.c)
